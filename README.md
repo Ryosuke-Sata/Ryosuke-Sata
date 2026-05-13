@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>佐多 良介 (Ryosuke Sata)</h1>
+  <h1>佐多 良介 (Sata Ryosuke)</h1>
   <p>中央大学大学院 理工学研究科 M1 / 國井研究室</p>
 </div>
 
 <br>
 
 ## Profile
-中央大学大学院 理工学研究科 電気電子情報通信工学専攻 國井研究室に所属している修士1年の佐多良介です．
+中央大学大学院 理工学研究科 電気電子情報通信工学専攻 國井研究室に所属している修士1年の佐多良介です．  
 現在は，群ロボットについての研究に取り組んでいます．
 
 <!-- 
@@ -14,8 +14,8 @@
 -->
 
 - **Education:**
-  - 2026.04 - 現在: 中央大学大学院 理工学研究科 電気電子情報通信工学専攻
   - 2022.04 - 2026.03: 中央大学 理工学部 電気電子情報通信工学科
+  - 2026.04 - 現在: 中央大学大学院 理工学研究科 電気電子情報通信工学専攻
 - **Research Interest:** 群ロボット
 
 <br>
@@ -23,12 +23,27 @@
 ## Technical Skills
 ゼロからのコーディングよりも，既存コードの読解，AIツールの活用，システム全体の統合・運用に重きを置いて活動しています．
 
-- **Languages:**
-  - **Python:** 卒業研究での2D群ロボットシミュレーション構築
-  - **C:** 基礎学習・大学講義レベル
-- **Tools & Environments:**
-  - **Git / Docker:** 入門書での学習を終え，基本操作を習得中
-  - **Hardware:** Raspberry Pi
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+</p>
+
+- **Python:** 卒業研究での2D群ロボットシミュレーション構築・実機ロボットの動作プログラムの作成
+- **C:** 基礎学習・大学講義レベル
+
+### Tools & Environments
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+</p>
+
+- **Git / Docker:** 入門書での学習を終え，基本操作を習得中．
+- **CI/CD & Hosting:** GitHub Actionsによる自動化，Vercelによるデプロイ・ホスティング
+- **Hardware:** Raspberry Pi
 
 <br>
 
@@ -45,8 +60,8 @@
 
 ## Statistics
 <div align="center">
-  <img src="https://github-readme-stats-six-beta-vgxtfnqmxm.vercel.app/api?username=Ryosuke-Sata&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-six-beta-vgxtfnqmxm.vercel.app/api/top-langs/?username=Ryosuke-Sata&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  <img height="200" src="https://github-readme-stats-six-beta-vgxtfnqmxm.vercel.app/api?username=Ryosuke-Sata&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="200" src="https://github-readme-stats-six-beta-vgxtfnqmxm.vercel.app/api/top-langs/?username=Ryosuke-Sata&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">

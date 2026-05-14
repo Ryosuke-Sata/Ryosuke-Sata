@@ -60,8 +60,8 @@
 
 ## Statistics
 <div align="center">
-  <img height="200" src="https://github-readme-stats-six-beta-vgxtfnqmxm.vercel.app/api?username=Ryosuke-Sata&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-stats-six-beta-vgxtfnqmxm.vercel.app/api/top-langs/?username=Ryosuke-Sata&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  <img height="195" src="https://raw.githubusercontent.com/Ryosuke-Sata/Ryosuke-Sata/output/stats.svg" alt="GitHub Stats" />
+  <img height="195" src="https://raw.githubusercontent.com/Ryosuke-Sata/Ryosuke-Sata/output/top-langs.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
